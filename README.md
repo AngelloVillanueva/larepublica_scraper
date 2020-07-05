@@ -1,7 +1,7 @@
 # Proyecto Web Scraping Diario "La Republica"
 Este proyecto fue diseñado en el curso de fundamentos de WebScraping con Python y XPath, en donde se scrapeo el diario "La republica" a traves de Xpath y Python.
 
-###En el presente proyecto se aprendió y se utilizó:
+### En el presente proyecto se aprendió y se utilizó:
 
 - Identificar los elementos de una web
 - Entender los principios y fundamentos de Web scraper
